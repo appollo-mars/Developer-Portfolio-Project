@@ -5,7 +5,7 @@ import HelloWorld from './components/HelloWorld.vue'
 <template>
   
   <body class="bg-black text-white">
-     <nav class="flex items-center justify-between lg:px-25 lg:pt-10 px-5 pt-10">
+     <nav class="flex items-center justify-between lg:mx-25 lg:pt-10 mx-5 md:mx-10 pt-10">
       <h1 class="font-serif lg:text-xl text-xl ">Johnathan Specter</h1>
       <div class="lg:block hidden">
         <ul class="flex items-center gap-x-8 text-base  ">
@@ -33,7 +33,7 @@ import HelloWorld from './components/HelloWorld.vue'
       </div>
     </div>
 
-    <div class="flex flex-wrap lg:flex-nowrap space-y-6 lg:flex-row items-center  lg:justify-between justify-center space-x-3 lg:px-25">
+    <div class="flex flex-wrap lg:flex-nowrap md:items-center space-y-6 lg:flex-row items-center md:justify-between lg:justify-between justify-center space-x-3 lg:px-25">
       <img src="./Assets/Logos/Walmart.svg">
       <img src="./Assets/Logos/JPMorgan.svg">
       <img src="./Assets/Logos/Visa.svg">
