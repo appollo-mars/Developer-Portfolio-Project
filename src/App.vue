@@ -6,7 +6,7 @@ import HelloWorld from './components/HelloWorld.vue'
   
   <body class="bg-black text-white">
      <nav class="flex items-center justify-between lg:px-25 lg:pt-10 px-5 pt-10">
-      <h1 class="font-serif lg:text-xl text-2xl ">Johnathan Specter</h1>
+      <h1 class="font-serif lg:text-xl text-xl ">Johnathan Specter</h1>
       <div class="lg:block hidden">
         <ul class="flex items-center gap-x-8 text-base  ">
           <li class="hover:text-yellow-300"><a href="#">Articles</a></li>
