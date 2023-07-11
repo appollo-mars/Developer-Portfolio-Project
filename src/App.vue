@@ -42,7 +42,7 @@ import HelloWorld from './components/HelloWorld.vue'
       <img src="./Assets/Logos/Verizon.svg" class="">
     </div>
 
-    <div class=" lg:flex   items-center justify-between   lg:px-20 my-20 ">
+    <div class=" lg:flex   items-center justify-between   lg:px-20 my-20 mx-5 lg:mx-0 ">
       <div class="hero 1 lg:mb-0">
       <img src="./Assets/Spense.png" alt="" class="mb-5">
       
